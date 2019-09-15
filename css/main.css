@@ -119,6 +119,13 @@ header h2 span {
 
 .project {
     background: #ffffff;
+    margin: 0 auto;
+    text-align: center;
+    width: 350px;
+}
+
+.project img {
+    border-bottom: 1px solid #f5f2f0;
 }
 
 /***** Footer *****/
