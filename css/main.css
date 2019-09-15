@@ -17,6 +17,12 @@ body {
     font-size: 16px;
 }
 
+h2 {
+    color: #829995;
+    margin: 80px 0;
+    text-align: center;
+}
+
 /***** Grid *****/
 
 .full-width {
@@ -109,23 +115,31 @@ header h2 span {
 
 #portfolio {
     background: #f5f2f0;
-}
-
-#portfolio h2 {
-    color: #829995;
-    margin: 80px 0;
-    text-align: center;
+    padding-bottom: 140px;
 }
 
 .project {
     background: #ffffff;
     margin: 0 auto;
+    height: 410px;
     text-align: center;
     width: 350px;
 }
 
 .project img {
     border-bottom: 1px solid #f5f2f0;
+}
+
+.project h4 {
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: lowercase;
+}
+
+.project p {
+    color: #989897;
+    line-height: 32px;
 }
 
 /***** Footer *****/
