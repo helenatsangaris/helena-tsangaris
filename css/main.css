@@ -85,6 +85,25 @@ header ul a:hover {
     color: #829995;
 }
 
+#illustration-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+#illustration {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+header img {
+    height: 400px;
+    position: relative;
+    top: 150px;
+    left: 50px;
+}
+
 header h2 {
     color: #c2bfbe;
     font-family: 'Lato', sans-serif;
